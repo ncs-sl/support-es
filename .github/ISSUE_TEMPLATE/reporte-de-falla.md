@@ -25,7 +25,7 @@ Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
 
 **Escritorio (complete la siguiente información):**
   - SO: [p. Ej. Windows]
-  - Visor [p. Ej. Tormenta de fuego, singularidad]
+  - Visor [p. Ej. Firestorm, Singularity]
   - Versión de visor [p. Ej. 22]
 
 **Contexto adicional**
