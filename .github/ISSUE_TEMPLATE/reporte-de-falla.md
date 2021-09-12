@@ -1,8 +1,8 @@
 ---
 name: Reporte de falla
 about: Crea un reporte del error para ayudarnos a mejorar.
-title: ''
-labels: ''
+title: "[ERROR]"
+labels: ERROR
 assignees: ezebongiovi
 
 ---
@@ -26,7 +26,7 @@ Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
 **Escritorio (complete la siguiente información):**
   - SO: [p. Ej. Windows]
   - Visor [p. Ej. Tormenta de fuego, singularidad]
-  - Versión de espectador [p. Ej. 22]
+  - Versión de visor [p. Ej. 22]
 
 **Contexto adicional**
 Agregue aquí cualquier otro contexto sobre el problema.
